@@ -1,0 +1,6 @@
+{
+  "name": "ID Anaconda",
+  "description": "A competitive Anaconda multiplayer simulation game with levels, skins, daily challenges, and a garage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
